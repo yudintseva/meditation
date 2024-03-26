@@ -1,0 +1,447 @@
+body{
+    background: #161614;
+}
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300&display=swap')
+</style>
+
+    .m-plus rounded 1c-light {
+        font-family: "M PLUS Rounded 1c", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+      }
+
+    p{
+        font-family: 'M PLUS Rounded 1c';
+    }
+    
+
+.stroka1{
+
+    margin-bottom: -3%;
+      width: 100%;
+      height: 20vw;
+      position: relative;
+      font-size: 13vw ;
+      display: block;
+      overflow: hidden;
+    
+     
+  }
+  .strokapod1{
+    color: #B5B5B5;
+    width: 100%;
+    
+    position: absolute;
+    white-space:nowrap; 
+    display: block;
+    animation: stroka1 18s linear infinite;
+    margin-top: 1vw;
+}
+@keyframes stroka1 {
+    0% {transform: translatex(-100%)}
+    100% {transform: translatex(0%)}
+}
+.stroka2{
+
+    margin-top: -4%;
+      width: 100%;
+      height: 20vw;
+      position: relative;
+      font-size: 3vw ;
+      display: block;
+      overflow: hidden;
+    
+     
+  }
+  .strokapod2{
+    color: #ffffff;
+    width: 100%;
+    
+    position: absolute;
+    white-space:nowrap; 
+    display: block;
+    animation: stroka1 18s linear infinite;
+    margin-top: 1vw;
+}
+@keyframes stroka2 {
+    0% {transform: translatex(-100%)}
+    100% {transform: translatex(0%)}
+}
+
+.i1{
+    position: relative;
+    overflow: hidden;
+    margin-top: -15%;
+
+ .i1{
+        position: relative;
+        overflow: hidden;
+    margin-left: 20%;
+
+      }
+ 
+  }
+
+  .img1{
+    width: 100%;
+  
+    }
+    .stroka3{
+
+        margin-top: -7%;
+        margin-bottom: -52%;
+          width: 100%;
+          height: 70vw;
+          position: relative;
+          font-size: 3vw ;
+          display: block;
+          overflow: hidden;
+        
+         
+      }
+      .strokapod3{
+        color: #ffffff;
+        width: 100%;
+        position: absolute;
+        white-space:nowrap; 
+        display: block;
+        animation: stroka1 18s linear infinite;
+        margin-top: 1vw;
+    }
+    @keyframes stroka3 {
+        100% {transform: translatex(0%)}
+        0% {transform: translatex(100%)}
+    }
+    .i2{
+        position: relative;
+        overflow: hidden;
+        height: 25vw;
+        width: 100%;
+      }
+    
+    
+        .stroka4{
+
+            margin-top: 3%;
+              width: 100%;
+              height: 20vw;
+              position: relative;
+              font-size: 3vw ;
+              display: block;
+              overflow: hidden;
+            
+             
+          }
+          .strokapod4{
+            color: #ffffff;
+            width: 100%;
+            
+            position: absolute;
+            white-space:nowrap; 
+            display: block;
+            animation: stroka1 10s linear infinite;
+            margin-top: 1vw;
+        }
+        @keyframes stroka4 {
+            100% {transform: translatex(0%)}
+            0% {transform: translatex(100%)}
+        }
+
+   
+        
+         .i3{
+                position: relative;
+                overflow: hidden;
+                margin-top: -15%;
+              }
+         
+          
+          .img3{
+            width: 100%;
+            }
+          
+            .stroka9{
+
+                margin-top: -13%;
+                  width: 100%;
+                  height: 20vw;
+                  position: relative;
+                  font-size: 13vw ;
+                  display: block;
+                  overflow: hidden;
+                
+                 
+              }
+              .strokapod9{
+                color: #B5B5B5;
+                width: 100%;
+                
+                position: absolute;
+                white-space:nowrap; 
+                display: block;
+                animation: stroka1 18s linear infinite;
+                margin-top: 1vw;
+            }
+            @keyframes stroka9 {
+                0% {transform: translatex(-100%)}
+                100% {transform: translatex(0%)}
+            }
+
+
+           
+
+               .stroka5{
+                margin-top: -5%;
+                  width: 100%;
+                  height: 20vw;
+                  position: relative;
+                  font-size: 3vw ;
+                  display: block;
+                  overflow: hidden; 
+              }
+              .strokapod5{
+                color: #ffffff;
+                width: 100%;
+                
+                position: absolute;
+                white-space:nowrap; 
+                display: block;
+                animation: stroka1 18s linear infinite;
+                margin-top: 1vw;
+            }
+            @keyframes stroka5 {
+                100% {transform: translatex(0%)}
+                0% {transform: translatex(100%)}
+            }
+     
+            
+                .stroka6{
+                    margin-top: -2%;
+                      width: 100%;
+                      height: 20vw;
+                      position: relative;
+                      font-size: 3vw ;
+                      display: block;
+                      overflow: hidden; 
+                  }
+                  .strokapod6{
+                    color: #ffffff;
+                    width: 100%;
+                    
+                    position: absolute;
+                    white-space:nowrap; 
+                    display: block;
+                    animation: stroka1 18s linear infinite;
+                    margin-top: 1vw;
+                }
+                @keyframes stroka6 {
+                    100% {transform: translatex(0%)}
+                    0% {transform: translatex(100%)}
+                }
+                .vidvid{
+                    position: relative;
+                    overflow: hidden;
+                    margin-top: -5%;
+                   }
+                .vzdox{
+                    width: 100%;
+                }
+                .i4{
+                    position: relative;
+                    overflow: hidden;
+                    margin-top: -10%;
+                   }
+                  .img4{
+                    width: 100%;
+                  
+                    }
+
+                    .stroka7{
+                        margin-top: -7%;
+                          width: 100%;
+                          height: 20vw;
+                          position: relative;
+                          font-size: 3vw ;
+                          display: block;
+                          overflow: hidden; 
+                      }
+               .strokapod7{
+                        color: #ffffff;
+                        width: 100%;
+                        
+                        position: absolute;
+                        white-space:nowrap; 
+                        display: block;
+                        animation: stroka1 18s linear infinite;
+                        margin-top: 1vw;
+                    }
+                    @keyframes stroka7 {
+                        100% {transform: translatex(0%)}
+                        0% {transform: translatex(100%)}
+                    }
+
+    .i5{
+     position: relative;
+     overflow: hidden;
+     margin-top: -15%;
+     }
+     .img5{
+      width: 100%;
+      }
+
+      .i6{
+        position: relative;
+        overflow: hidden;
+        margin-top: -15%;
+        }
+        .img6{
+         width: 100%;
+         }
+
+ .stroka8{
+
+width: 100%;
+height: 20vw;
+position: relative;
+font-size: 3vw ;
+display: block;
+overflow: hidden; 
+}
+.strokapod8{
+    color: #ffffff;
+    width: 100%;
+    position: absolute;
+    white-space:nowrap; 
+    display: block;
+    animation: stroka1 18s linear infinite;
+    margin-top: 1vw;
+        }
+@keyframes stroka8 {
+    100% {transform: translatex(0%)}
+    0% {transform: translatex(100%)}
+        }
+
+.constants{
+    margin-top: -55%;
+}
+.slovo1{
+  margin-left: 15%;
+    width: 22%;
+}
+.slovo2{
+    margin-left: -5%;
+    width: 22%;
+}
+.slovo3{
+    margin-left: 18%;
+    width: 22%;
+}
+.slovo4{
+    margin-left: 32%;
+    width: 22%;
+}
+.slovo5{
+   
+    width: 22%;
+}
+.slovo6{
+    margin-left: 17%;
+    width: 22%;
+}
+.slovo7{
+    width: 22%;
+}
+.slovo8{
+    margin-left: 35%;
+    width: 22%;
+}
+.slovo9{
+    margin-left: 13%;
+    width: 22%;
+}
+.slovo10{
+    width: 22%;
+}
+.slovo11{
+    margin-left: 30%;
+    width: 22%;
+}
+.slovo12{
+    margin-left: 17%;
+    width: 22%;
+}
+
+.krug1{
+    width: 1000%;
+    height: 15vw;
+ margin-top: -1%;
+margin-bottom: ;
+    border-radius: 50%;
+    border: 0.2vw solid rgb(255, 255, 255);
+}
+
+.krug1_anima{
+    /* animation: krugi 1s linear ; */
+    transform: scale(0.1);
+    transition: 1s;
+}
+
+/* @keyframes krugi{
+    0%{transform: scale(1);}
+    100%{transform: scale(0.1);}
+} */
+
+
+.krugi{
+  margin-right: 20%;
+    margin-top: 5%;
+    position:absolute;
+    gap: 1%;
+    display: flex;
+    justify-content: space-around;
+
+    width: 400%;
+  
+    z-index: 1000;
+    animation: krugi 30s linear infinite;
+}
+
+@keyframes krugi{
+    0%{transform: translate(0%);}
+    100%{transform: translate(-20%);}
+}
+.i6{
+    position: relative;
+    overflow: hidden;
+    margin-top: -10%;
+  }
+
+
+.img6{
+width: 100%;
+}
+
+.stroka10{
+    margin-top: -7%;
+    width: 100%;
+    height: 20vw;
+    position: relative;
+    font-size: 3vw ;
+    display: block;
+    overflow: hidden; 
+    }
+    .strokapod10{
+        color: #ffffff;
+        width: 100%;
+        position: absolute;
+        white-space:nowrap; 
+        display: block;
+        animation: stroka10 18s linear infinite;
+        margin-top: 1vw;
+            }
+    @keyframes stroka10 {
+        0% {transform: translatex(-100%)}
+        100% {transform: translatex(0%)}
+            }
